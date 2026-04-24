@@ -68,3 +68,16 @@ samples, guidance on mobile development, and a full API reference.
 * Location Services: `geolocator` - For accessing device GPS and mapping nearby pharmacies.
 * Notifications: `flutter_local_notifications` & `timezone` - For scheduling and handling reliable, localized push notifications.
 * Navigation: `url_launcher` - For redirecting users to maps or external links.
+
+## Screenshots
+
+![Home](WhatsApp Image 2026-04-23 at 1.33.49 AM (1).png)
+![Search](WhatsApp Image 2026-04-23 at 1.33.49 AM.png)
+![Medicine_Info](WhatsApp Image 2026-04-23 at 1.33.50 AM.png)
+![Alternate_medicine](WhatsApp Image 2026-04-23 at 1.33.50 AM (1).png)
+![symptom_checker](WhatsApp Image 2026-04-23 at 1.33.50 AM (2).png)
+![Reminder](WhatsApp Image 2026-04-23 at 1.33.50 AM (3).png)
+![Drug_interaction_checker](WhatsApp Image 2026-04-23 at 1.33.51 AM.png)
+![Profile](WhatsApp Image 2026-04-23 at 1.33.51 AM (1).png)
+![Medicine_stock_tracker](WhatsApp Image 2026-04-23 at 1.33.51 AM (2).png)
+![Nearby_Pharmacies](WhatsApp Image 2026-04-23 at 1.33.52 AM.png)
