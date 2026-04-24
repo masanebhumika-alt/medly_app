@@ -81,3 +81,18 @@ samples, guidance on mobile development, and a full API reference.
 ![Profile](profile.jpeg)
 ![Medicine_stock_tracker](stock_tracker.jpeg)
 ![Nearby_Pharmacies](nearby_pharma.jpeg)
+
+
+##  How to Run
+
+1. Clone the repository
+git clone https://github.com/masanebhumika-alt/medly_app.git
+
+2. Go to project folder
+cd medly_app
+
+3. Install dependencies
+flutter pub get
+
+4. Run the app
+flutter run
