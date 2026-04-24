@@ -71,13 +71,13 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-![Home](WhatsApp Image 2026-04-23 at 1.33.49 AM (1).png)
-![Search](WhatsApp Image 2026-04-23 at 1.33.49 AM.png)
-![Medicine_Info](WhatsApp Image 2026-04-23 at 1.33.50 AM.png)
-![Alternate_medicine](WhatsApp Image 2026-04-23 at 1.33.50 AM (1).png)
-![symptom_checker](WhatsApp Image 2026-04-23 at 1.33.50 AM (2).png)
-![Reminder](WhatsApp Image 2026-04-23 at 1.33.50 AM (3).png)
-![Drug_interaction_checker](WhatsApp Image 2026-04-23 at 1.33.51 AM.png)
-![Profile](WhatsApp Image 2026-04-23 at 1.33.51 AM (1).png)
-![Medicine_stock_tracker](WhatsApp Image 2026-04-23 at 1.33.51 AM (2).png)
-![Nearby_Pharmacies](WhatsApp Image 2026-04-23 at 1.33.52 AM.png)
+![Home](home.jpeg)
+![Search](search.jpeg)
+![Medicine_Info](medicine_info.jpeg)
+![Alternate_medicine](alternate_medicine.jpeg)
+![symptom_checker](symptom_checker.jpeg)
+![Reminder](reminder.jpeg)
+![Drug_interaction_checker](drug_interaction_checker.jpeg)
+![Profile](profile.jpeg)
+![Medicine_stock_tracker](stock_tracker.jpeg)
+![Nearby_Pharmacies](nearby_pharma.jpeg)
